@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/movie-epic-v1/static/css/main.f411d7cc.css",
+    "main.js": "/movie-epic-v1/static/js/main.3cfb3bcd.js",
+    "static/media/logo.svg": "/movie-epic-v1/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/movie-epic-v1/index.html",
+    "main.f411d7cc.css.map": "/movie-epic-v1/static/css/main.f411d7cc.css.map",
+    "main.3cfb3bcd.js.map": "/movie-epic-v1/static/js/main.3cfb3bcd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f411d7cc.css",
+    "static/js/main.3cfb3bcd.js"
+  ]
+}
